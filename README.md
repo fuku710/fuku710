@@ -3,7 +3,7 @@
  
 int main(void)
 {
-  printf("殺伐としたREADME.mdにRubyが！！");
+  printf("殺伐としたREADME.mdにRubyが！！\n");
   return 0;
 }
 
